@@ -1,0 +1,199 @@
+{
+  "General": [
+    {
+      "username": "Diana Davila",
+      "message": "hello",
+      "timestamp": "08:47:10",
+      "id": "Diana Davila1772786830925"
+    },
+    {
+      "username": "Scott",
+      "message": "Hello",
+      "timestamp": "08:47:37",
+      "id": "Scott1772786857220"
+    },
+    {
+      "username": "Luis",
+      "message": "test",
+      "timestamp": "08:51:45",
+      "id": "Luis1772787106000"
+    },
+    {
+      "username": "Diana",
+      "message": "hello",
+      "timestamp": "09:20:31",
+      "id": "Diana1772788831530"
+    },
+    {
+      "username": "Luis",
+      "message": "hola amigos",
+      "timestamp": "09:20:40",
+      "id": "Luis1772788840369"
+    },
+    {
+      "username": "Miguel",
+      "message": "como estan?",
+      "timestamp": "09:20:54",
+      "id": "Miguel1772788854034"
+    },
+    {
+      "username": "Tomas",
+      "message": "bien y ustedes que tal?",
+      "timestamp": "09:21:03",
+      "id": "Tomas1772788863657"
+    },
+    {
+      "username": "Diana",
+      "message": "hello",
+      "timestamp": "09:39:31",
+      "id": "Diana1772789971752"
+    },
+    {
+      "username": "Diana",
+      "message": "how are you doing",
+      "timestamp": "10:18:02",
+      "id": "Diana1772792282428"
+    },
+    {
+      "username": "Diana",
+      "message": "good thanks and you",
+      "timestamp": "10:18:12",
+      "id": "Diana1772792292798"
+    },
+    {
+      "username": "Luis",
+      "message": "hey",
+      "timestamp": "10:18:25",
+      "id": "Luis1772792305390"
+    },
+    {
+      "username": "Diana",
+      "message": "hello",
+      "timestamp": "10:21:45",
+      "id": "Diana1772792505616"
+    },
+    {
+      "username": "Marina",
+      "message": "hey guys",
+      "timestamp": "10:22:00",
+      "id": "Marina1772792520287"
+    },
+    {
+      "username": "Erick",
+      "message": "Hello friends",
+      "timestamp": "10:50:45",
+      "id": "Erick1772794245402"
+    },
+    {
+      "username": "Lucas",
+      "message": "hey",
+      "timestamp": "10:55:49",
+      "id": "Lucas1772794549617"
+    },
+    {
+      "username": "Lucas",
+      "message": "hey",
+      "timestamp": "10:55:52",
+      "id": "Lucas1772794552256"
+    },
+    {
+      "username": "Salomon",
+      "message": "hello",
+      "timestamp": "10:58:48",
+      "id": "Salomon1772794728651"
+    },
+    {
+      "username": "Salomon",
+      "message": "hey guys",
+      "timestamp": "10:58:50",
+      "id": "Salomon1772794730749"
+    },
+    {
+      "username": "Salomon",
+      "message": "how is everything going",
+      "timestamp": "10:58:59",
+      "id": "Salomon1772794739738"
+    },
+    {
+      "username": "Erick",
+      "message": "hiii",
+      "timestamp": "11:01:10",
+      "id": "Erick1772794870397"
+    },
+    {
+      "username": "Diana",
+      "message": "Hey everyone",
+      "timestamp": "11:32:46",
+      "id": "Diana1772796766727"
+    },
+    {
+      "username": "Matilda",
+      "message": "hiiii",
+      "timestamp": "11:32:58",
+      "id": "Matilda1772796778887"
+    },
+    {
+      "username": "Erick",
+      "message": "hi",
+      "timestamp": "11:33:19",
+      "id": "Erick1772796799068"
+    },
+    {
+      "username": "Tomas",
+      "message": "hello",
+      "timestamp": "11:33:32",
+      "id": "Tomas1772796812263"
+    },
+    {
+      "username": "Dad",
+      "message": "good morning",
+      "timestamp": "11:35:37",
+      "id": "Dad1772796937083"
+    }
+  ],
+  "test": [
+    {
+      "username": "Ulises",
+      "message": "hi guys",
+      "timestamp": "14:32:54",
+      "id": "Ulises1772807574760"
+    }
+  ],
+  "Test": [
+    {
+      "username": "Diana",
+      "message": "hello",
+      "timestamp": "14:40:16",
+      "id": "Diana1772808016286"
+    }
+  ],
+  "Edinburgh": [],
+  "University of Aberdeen": [
+    {
+      "username": "Marina",
+      "message": "Good afternoon everyone!",
+      "timestamp": "14:46:41",
+      "id": "Marina1772808401017"
+    },
+    {
+      "username": "Brandon",
+      "message": "Hello",
+      "timestamp": "14:46:55",
+      "id": "Brandon1772808415554"
+    }
+  ],
+  "Aberdeen": [
+    {
+      "username": "Luis",
+      "message": "hello",
+      "timestamp": "15:20:50",
+      "id": "Luis1772810450434"
+    },
+    {
+      "username": "Alyssa",
+      "message": "hello",
+      "timestamp": "15:27:28",
+      "id": "Alyssa1773070048667"
+    }
+  ]
+}
