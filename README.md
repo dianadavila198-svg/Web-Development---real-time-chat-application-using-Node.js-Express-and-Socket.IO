@@ -15,6 +15,25 @@ Builded a real time chat application using Node.js, Express, and Socket.IO. The 
 Live indicators: such as user is typing to visualize the in real time chat. 
 -Live notifications: status updates for the user about join/leave notifications.
 
+## PROJECT ARCHITECTURE
+
+```text
+.
+├── public/                  # Frontend Static Assets
+│   ├── css/
+│   │   └── style.css        # Responsive UI & custom chat styling (Bootstrap 5 overrides)
+│   ├── js/
+│   │   ├── chat.js          # Client-side Socket.IO events, DOM manipulation & typing indicators
+│   │   └── lib/             # Third-party client scripts (jQuery, Socket.IO client SDK)
+│   └── index.html           # Main SPA layout (Bootstrap grid: col-12 / col-md dynamic views)
+├── data/
+│   └── messages.json        # Persistent file-based chat history storage
+├── server.js                # Express app server & Socket.IO real-time event router
+├── package.json             # Node.js project manifest and dependency definitions
+├── package-lock.json        # Pinned dependency lockfile
+├── .gitignore               # Excludes node_modules and runtime configuration files
+└── README.md                # Project documentation & operational guidelines
+```
 
 ## Instalation and Set up 
 To run this application locally, ensure you have Node.js installed.
